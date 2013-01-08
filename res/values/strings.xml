@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CCAC Swipe</string>
+    <string name="location">Location</string>
+    <string name="cant_read_folder">folder can\'t be read!</string>
+    <string name="nnew">New</string>
+    <string name="select">Select</string>
+    <string name="file_name">File name:</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Save</string>
+    <string name="no_data">No Data</string>
+    <string name="image_desc">ID Tech Logo</string>
+    <string name="swipe_card">Swipe Card</string>
+    <string name="button_command">Command</string>
+    <color name="gray">#ff0ff000</color>
+
+</resources>

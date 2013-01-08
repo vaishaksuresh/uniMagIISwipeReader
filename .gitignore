@@ -1,0 +1,16 @@
+
+.classpath
+
+.project
+
+.settings/org.eclipse.jdt.core.prefs
+
+bin/UniMagDemo_Standard_v2.12.apk
+
+bin/classes.dex
+
+*.class
+
+bin/dexedLibs/IDTuniMagSDKAndroid-0db717e88da9f86cd3e2e2af8c077c99.jar
+
+bin/dexedLibs/IDTuniMagSDKAndroid-53443d872da6a6cb59e4e7c469b43ac8.jar
